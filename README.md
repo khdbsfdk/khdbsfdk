@@ -1,24 +1,15 @@
-**khdbsfdk/khdbsfdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=제%20깃허브에%20오신것을%20환영합니다.&fontSize=40)
 
-## tech steck
+## Tech steck
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/TensorFlow-green?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
-## used at least once
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+
+## Used at least once
+ <img src="https://img.shields.io/badge/Android Studio-gray?style=flat-square&logo=Android Studio&logoColor=3DDC84"/>
  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ ## Interest
+ <img src="https://img.shields.io/badge/ChatBot-orange?style=flat-square&logo=ChatBot&logoColor=FFD000"/>
+ <img src="https://img.shields.io/badge/Android-gray?style=flat-square&logo=Android&logoColor=3DDC84"/>
+ 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khdbsfdk&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
