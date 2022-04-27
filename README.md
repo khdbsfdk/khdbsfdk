@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **khdbsfdk/khdbsfdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=제%20깃허브에%20오신것을%20환영합니다.&fontSize=40)
+
+## tech steck
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+## used at least once
+ <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khdbsfdk&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
