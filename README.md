@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=제%20깃허브에%20오신것을%20환영합니다.&fontSize=40)
 
 ## tech steck
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TensorFlow-green?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
 ## used at least once
  <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  
