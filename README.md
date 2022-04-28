@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
  <img src="https://img.shields.io/badge/pandas-skyblue?style=flat&logo=pandas&logoColor=150458"/>
- <img src="https://img.shields.io/badge/pandas-gray?style=flat-square&logo=pandas&logoColor=150458"/>
 
  
 ☝️ Used at least once
