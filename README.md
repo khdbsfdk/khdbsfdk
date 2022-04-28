@@ -25,8 +25,8 @@
  -----------
  <img src="https://img.shields.io/badge/ChatBot-purple?style=flat-square&logo=ChatBot&logoColor=FFD000"/>
  <img src="https://img.shields.io/badge/Android-gray?style=flat-square&logo=Android&logoColor=3DDC84"/>
- <img src="https://img.shields.io/badge/GitHub-majenta?style=flat-square&logo=GitHub&logoColor=181717"/>
- <img src="https://img.shields.io/badge/OpenCV-majenta?style=flat-square&logo=OpenCV&logoColor=5C3EE8"/>
+ <img src="https://img.shields.io/badge/GitHub-lightblue?style=flat-square&logo=GitHub&logoColor=181717"/>
+ <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=OpenCV&logoColor=5C3EE8"/>
  
  
  ---
