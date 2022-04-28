@@ -11,7 +11,7 @@
 -----------
  
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/TensorFlow-darkgreen?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
  <img src="https://img.shields.io/badge/pandas-skyblue?style=flat&logo=pandas&logoColor=150458"/>
 
  
@@ -23,7 +23,7 @@
  
  🔦Interest
  -----------
- <img src="https://img.shields.io/badge/ChatBot-purple?style=flat-square&logo=ChatBot&logoColor=FFD000"/>
+ <img src="https://img.shields.io/badge/ChatBot-black?style=flat-square&logo=ChatBot&logoColor=FFD000"/>
  <img src="https://img.shields.io/badge/Android-gray?style=flat-square&logo=Android&logoColor=3DDC84"/>
  <img src="https://img.shields.io/badge/GitHub-lightblue?style=flat-square&logo=GitHub&logoColor=181717"/>
  <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=OpenCV&logoColor=5C3EE8"/>
