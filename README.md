@@ -12,22 +12,22 @@
  
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/TensorFlow-black?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
- <img src="https://img.shields.io/badge/pandas-skyblue?style=flat&logo=pandas&logoColor=150458"/>
+ <img src="https://img.shields.io/badge/pandas-3776AB?style=flat&logo=pandas&logoColor=150458"/>
 
  
 ☝️ Used at least once
  -----------
  
- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Android Studio-white?style=flat-square&logo=Android Studio&logoColor=3DDC84"/>
  <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=#34F26"/>
  <img src="https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=000000"/>
  
  
  🔦Interest
  -----------
- <img src="https://img.shields.io/badge/ChatBot-black?style=flat-square&logo=ChatBot&logoColor=FFD000"/>
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-lightblue?style=flat-square&logo=GitHub&logoColor=181717"/>
+ <img src="https://img.shields.io/badge/ChatBot-white?style=flat-square&logo=ChatBot&logoColor=orange"/>
+ <img src="https://img.shields.io/badge/Android-white?style=flat-square&logo=Android&logoColor=3DDC84"/>
+ <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=181717"/>
  <img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=OpenCV&logoColor=5C3EE8"/>
  
  
